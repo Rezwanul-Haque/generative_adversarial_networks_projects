@@ -78,6 +78,7 @@ The architecture of a GAN has two basic elements: the generator network and the 
 4. 3D-GANs
 5. Age-cGANs
 6. pix2pix
+7. SRGANs(Super-Resolution Generative Adversarial Networks)
 
 # Advantages of GANs
 1. GANs are an unsupervised learning method
